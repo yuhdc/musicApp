@@ -10,15 +10,6 @@ import cot from "../audio/La La Land - City of Stars DUET - Lyrics.mp3";
 
 const myList = () => [
   {
-    name: "",
-    artist: "",
-    cover: "",
-    id: uuidv4(),
-    active: false,
-    color: ["", ""],
-    audio: "",
-  },
-  {
     name: "City of Star",
     artist: "Sebastian & Mia",
     cover: "./asset/img/cot.jpg",
